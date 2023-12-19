@@ -1,0 +1,77 @@
+{
+    "fireball": {
+        "effect": "Generates a ball of intense flames that can be hurled at a target, causing fiery explosions upon impact.",
+        "manaCost": "10",
+        "debuff": "-3 from enemy intelligence."
+    },
+    "lightning bolt": {
+        "effect": "Conjures a powerful bolt of lightning, directed towards a specific target, delivering a high-voltage shock.",
+        "manaCost": "12",
+        "debuff": "-5 from enemy speed."
+    },
+    "ice shard": {
+        "effect": "Forms sharp shards of ice that can be launched at adversaries, inflicting frostbite and slowing their movements.",
+        "manaCost": "15",
+        "debuff": "-4 from enemy speed and -3 from enemy strength."
+    },
+    "arcane missile": {
+        "effect": "Creates a series of ethereal missiles that seek out and strike multiple targets with magical force.",
+        "manaCost": "18",
+        "debuff": "-6 from enemy strength."
+    },
+    "thunderclap": {
+        "effect": "Produces a deafening clap of thunder accompanied by a shockwave, disorienting and damaging nearby foes.",
+        "manaCost": "20",
+        "debuff": "-4 from enemy speed and -4 from enemy intelligence."
+    },
+    "shadow lance": {
+        "effect": "Summons a spear made of shadows, piercing through enemies with dark energy.",
+        "manaCost": "22",
+        "debuff": "-4 from enemy strength and -4 from enemy intelligence."
+    },
+    "magma surge": {
+        "effect": "Causes molten lava to erupt from the ground, scorching everything in its path and leaving persistent burning effects.",
+        "manaCost": "25",
+        "debuff": "-5 from enemy speed, and -4 from enemy intelligence."
+    },
+    "galeforce wind": {
+        "effect": "Summons a powerful wind that can be manipulated to knock back enemies and disrupt their attacks.",
+        "manaCost": "15",
+        "debuff": "-4 from enemy strength"
+    },
+    "acid rain": {
+        "effect": "Conjures a rain of corrosive acid that harms foes over time, eating away at armor and intelligences.",
+        "manaCost": "18",
+        "debuff": "-1 from intelligence and -5 from enemy intelligence"
+    },
+    "spectral barrage": {
+        "effect": "Releases a barrage of ghostly projectiles that phase through obstacles to strike down distant adversaries.",
+        "manaCost": "20",
+        "debuff": "-7 from enemy strength"
+    },
+    "cursed flames": {
+        "effect": "Envelops the target in eerie, purple flames that not only cause immediate damage but also linger, causing ongoing harm.",
+        "manaCost": "22",
+        "debuff": "-4 from intelligence and -6 from enemy strength"
+    },
+    "void nova": {
+        "effect": "Unleashes a burst of dark energy, creating a mini-black hole that pulls in and damages nearby enemies.",
+        "manaCost": "25",
+        "debuff": "-4 from enemy speed and -5 from enemy strength"
+    },
+    "radiant beam": {
+        "effect": "Summons a concentrated beam of radiant energy from the heavens, burning enemies with celestial light.",
+        "manaCost": "15",
+        "debuff": "-4 from enemy intelligence"
+    },
+    "venomous vortex": {
+        "effect": "Creates a swirling vortex of poisonous gas that envelops the target area, poisoning those caught within.",
+        "manaCost": "18",
+        "debuff": "-1 from intelligence and -3 from enemy intelligence"
+    },
+    "frost nova": {
+        "effect": "Triggers a sudden release of freezing energy, encasing nearby enemies in ice and slowing their movements.",
+        "manaCost": "20",
+        "debuff": "-5 from enemy speed and -3 from enemy strength"
+    }
+}
